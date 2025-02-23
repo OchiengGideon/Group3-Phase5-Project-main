@@ -56,7 +56,6 @@ jupyter-core==5.7.2
 Keras==2.4.3
 Keras-Preprocessing==1.1.2
 lazy-loader==0.4
-lime==0.2.0.1
 LunarCalendar==0.0.9
 Markdown==3.3.2
 markdown-it-py==3.0.0

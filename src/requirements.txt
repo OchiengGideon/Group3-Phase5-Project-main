@@ -128,7 +128,6 @@ tensorboard-plugin-wit==1.7.0
 tensorflow==2.3.1
 tensorflow-estimator==2.3.0
 tensorflow-io-gcs-filesystem==0.31.0
-termcolor==1.1.0
 testpath==0.4.4
 textblob==0.18.0.post0
 tifffile==2023.7.10

@@ -77,7 +77,6 @@ orc==0.1.0
 orjson==3.10.15
 osqp==0.6.1
 packaging==24.2
-pandocfilters==1.4.2
 parso==0.7.0
 patsy==0.5.1
 pillow==10.4.0

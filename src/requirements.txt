@@ -142,7 +142,6 @@ termcolor==1.1.0
 testpath==0.4.4
 textblob==0.18.0.post0
 tifffile==2023.7.10
-tomlkit==0.12.0
 torch==2.4.1
 torchvision==0.19.1
 typer==0.15.1

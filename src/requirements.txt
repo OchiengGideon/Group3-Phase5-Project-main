@@ -74,7 +74,6 @@ nbformat==5.10.4
 networkx==3.1
 nltk==3.9.1
 numpy==1.18.5
-oauthlib==3.1.0
 opencv-python==4.11.0.86
 opt-einsum==3.3.0
 orc==0.1.0

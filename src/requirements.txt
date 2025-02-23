@@ -80,7 +80,7 @@ opencv-python==4.11.0.86
 opt-einsum==3.3.0
 orc==0.1.0
 orjson==3.10.15
-osqp==0.6.1
+osqp==0.6.1 --only-binary=:all:
 packaging==24.2
 pandocfilters==1.4.2
 parso==0.7.0

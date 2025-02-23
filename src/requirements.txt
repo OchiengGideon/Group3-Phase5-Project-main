@@ -143,7 +143,6 @@ websockets==12.0
 werkzeug==3.0.6
 wincertstore==0.2
 wordcloud==1.9.4
-wrapt==1.12.1
 xgboost==1.2.1
 xmltodict==0.14.2
 xyzservices==2025.1.0

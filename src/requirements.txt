@@ -108,7 +108,6 @@ python-multipart==0.0.20
 python-version==0.0.2
 pytz==2020.1
 PyWavelets==1.4.1
-pywin32==308
 PyYAML==5.3.1
 pyzmq==19.0.2
 QtPy==1.9.0

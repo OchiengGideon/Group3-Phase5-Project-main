@@ -80,7 +80,6 @@ packaging==24.2
 parso==0.7.0
 patsy==0.5.1
 pillow==10.4.0
-pipreqs==0.5.0
 platformdirs==4.3.6
 prompt-toolkit==3.0.50
 protobuf==3.11.2

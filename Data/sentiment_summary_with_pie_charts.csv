@@ -1,0 +1,10 @@
+Product,Positive,Neutral,Negative,Pie_Chart
+sentiment_computer_reviews,215,45,106,sentiment_computer_reviews_pie_chart.png
+sentiment_Fridge_reviews,563,48,189,sentiment_Fridge_reviews_pie_chart.png
+sentiment_hoodie_reviews,906,37,106,sentiment_hoodie_reviews_pie_chart.png
+sentiment_parfum_reviews,489,32,145,sentiment_parfum_reviews_pie_chart.png
+sentiment_Playstation_reviews,522,80,190,sentiment_Playstation_reviews_pie_chart.png
+sentiment_shoes_reviews,785,31,101,sentiment_shoes_reviews_pie_chart.png
+sentiment_toy_reviews,380,19,40,sentiment_toy_reviews_pie_chart.png
+sentiment_Water_reviews,394,88,210,sentiment_Water_reviews_pie_chart.png
+sentiment_Xbox_reviews,805,192,377,sentiment_Xbox_reviews_pie_chart.png
